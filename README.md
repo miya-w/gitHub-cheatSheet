@@ -52,7 +52,7 @@ git commit -m 'update'
 git push
 git push --set-upstream origin branchName
 ```
-![]()
+![](https://github.com/miya-w/gitHub-cheatSheet/blob/master/img/Screen_Shot_2022-02-14_at_5.45.13_pm.png)
 
 
 ---
